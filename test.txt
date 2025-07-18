@@ -1,3 +1,4 @@
 "test-demo" 
 "signed update" 
 "signed update demo" 
+"AWS_SECRET_ACCESS_KEY=FAKEKEY1234567890" 
